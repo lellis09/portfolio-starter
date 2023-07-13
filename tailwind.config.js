@@ -24,7 +24,7 @@ module.exports = {
       },
       backgroundImage: {
         cool:"url('./assets/sites-bg-1.jpg')",
-        site2:"url('./assets/sites-bg-2.jpg')",
+        site2:"url('./assets/site-bg-2.jpg')",
         site: "url('./assets/site-bg.jpg')",
         about: "url('./assets/about.png')",
         services: "url('./assets/services.png')",

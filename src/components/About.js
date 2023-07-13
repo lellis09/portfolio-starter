@@ -2,7 +2,8 @@ import React from 'react';
 
 const About = () => {
   return(
-    <div className='section '>About</div>
+    <div className='section' id='about'>
+      About</div>
   );
 };
 
